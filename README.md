@@ -1,2 +1,2 @@
 # quantum_network_simulation
-Simulating a 4 node quantum network with no noise
+Simulating various quantum networks inlcuding packet-switched and entanglement-based quantum networks
